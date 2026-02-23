@@ -16,10 +16,11 @@ A simple tool to move your Windows 10/11 taskbar to the Left, Right, Top, or Bot
 5. Done! Restart Explorer if needed.
 
 ## 📥 Download
-[Click here to download](https://github.com/YOUR_USERNAME/TaskbarTweak-Win/releases)
+[Click here to download](https://github.com/MaxYT5184/TaskbarTweak-Win/releases)
 
 ## ⚠️ Disclaimer
 Use at your own risk. This modifies Windows registry settings.
 
 ## 📄 License
 MIT License
+
